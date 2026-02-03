@@ -32,3 +32,8 @@ Records: 10,533 listings
 ## Files
 - `notebooks/`: Full analysis
 - `sql/`: Supporting queries
+
+## Run This Project in GitHub Codespaces
+
+Click **Code → Codespaces → Create codespace** to launch a ready-to-run
+Python environment with all dependencies installed.
