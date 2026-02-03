@@ -1,0 +1,34 @@
+# Airbnb Price Analysis – Austin, TX
+
+## Overview
+This project analyzes 10,500+ Airbnb listings from Austin, Texas to identify
+key drivers of nightly rental prices using Python and multiple linear regression.
+
+## Business Question
+What listing and host characteristics most strongly influence nightly prices?
+
+## Data
+Source: Inside Airbnb (Austin, TX)
+Records: 10,533 listings
+
+## Tools
+- Python (pandas, NumPy, statsmodels)
+- SQL (exploratory analysis)
+- Jupyter Notebook
+
+## Key Steps
+- Cleaned and validated raw pricing data
+- Engineered features (log price, grouped neighborhoods)
+- Built and evaluated a multiple linear regression model
+
+## Results
+- Adjusted R²: 0.35
+- Key drivers: room type, location, minimum nights, availability
+
+## Limitations
+- Single time snapshot (no seasonality)
+- Moderate performance on unseen data
+
+## Files
+- `notebooks/`: Full analysis
+- `sql/`: Supporting queries
