@@ -35,18 +35,18 @@ Records: 10,533 listings
 
 ## Tableau Dashboard
 
-**Project:** Austin Airbnb Price Analysis  
-**Tool:** Tableau Public  
+## Project: Austin Airbnb Price Analysis  
+## Tool: Tableau Public  
 
-**View Interactive Dashboard:**  
+## View Interactive Dashboard:**  
 https://public.tableau.com/app/profile/quinton.banks/viz/AustinTXAirbnbPriceAnalysis/AustinTXAirBnBPriceAnalysis#1
 
-📌 **What this dashboard shows**
+## What this dashboard shows**
 - Price distribution by neighborhood
 - Impact of room type and review count
 - Impact of length of stay on price
 
-📂 **Data Source**
+## Data Source
 Inside Airbnb (Austin, TX)
 
 ## Run This Project in GitHub Codespaces
